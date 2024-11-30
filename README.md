@@ -16,9 +16,3 @@ Bu proje, bir Python sunucu uygulaması ile canlı kamera görüntüsünü TCP �
 ### C# 
 - .NET 6 veya daha yeni bir sürüm
 
-## Kurulum
-
-### Python Sunucusu
-1. OpenCV'yi yüklemek için aşağıdaki komutu terminal üzerinden çalıştırın:
-   ```bash
-   pip install opencv-python
