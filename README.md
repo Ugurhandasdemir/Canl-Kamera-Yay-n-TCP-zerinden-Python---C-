@@ -16,3 +16,5 @@ Bu proje, bir Python sunucu uygulaması ile canlı kamera görüntüsünü TCP �
 ### C# 
 - .NET 6 veya daha yeni bir sürüm
 
+
+[Test](https://github.com/Ugurhandasdemir/Canli-Kamera-Yayin-TCP-uzerinden-Python--C-/blob/main/test.jpg)
